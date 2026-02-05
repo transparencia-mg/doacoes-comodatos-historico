@@ -98,6 +98,6 @@ resources:
           title: Íntegra Termo Doação
           type: string
     scheme: file
-    title: Doações e comodatos recebidos pela Administração - Selo Amigo de Minas Gersia - Histórico
+    title: Doações e comodatos - Selo Amigo de Minas Gersia - Histórico
     state: active
-title: Doações e comodatos recebidos pela Administração - Selo Amigo de Minas Gerais - Histórico
+title: Doações e comodatos - Selo Amigo de Minas Gerais - Histórico
