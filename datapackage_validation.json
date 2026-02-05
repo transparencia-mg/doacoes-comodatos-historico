@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.049,
+  "time": 0.048,
   "errors": [],
   "tasks": [
     {
@@ -115,7 +115,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Doações e comodatos recebidos pela Administração - Selo Amigo de Minas Gerais",
+        "title": "Doações e comodatos recebidos pela Administração - Selo Amigo de Minas - Histórico Gerais",
         "stats": {
           "hash": "0c2c6e2ca5265b0dde5f08834cf67330",
           "bytes": 113387,
@@ -123,7 +123,7 @@
           "rows": 395
         }
       },
-      "time": 0.033,
+      "time": 0.032,
       "scope": [
         "hash-count-error",
         "byte-count-error",
