@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.049,
+  "time": 0.054,
   "errors": [],
   "tasks": [
     {
@@ -115,7 +115,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Doações e comodatos - Selo Amigo de Minas Gersia - Histórico",
+        "title": "Doações e comodatos - Selo Amigo de Minas Gerais - Histórico",
         "state": "active",
         "stats": {
           "hash": "0c2c6e2ca5265b0dde5f08834cf67330",
@@ -124,7 +124,7 @@
           "rows": 395
         }
       },
-      "time": 0.033,
+      "time": 0.036,
       "scope": [
         "hash-count-error",
         "byte-count-error",
